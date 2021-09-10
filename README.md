@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karan</h1>
+<h1 align="center">Hi, I'm Karan</h1>
 <h3 align="center">I'm currently pursuing a bachelor's degree in Computer Science Engineering</h3>
-
-- 🔭 I’m currently working on [Hand Tracking Model](https://github.com/karanlvm/Hand-Tracking-Model)
 
 - 📫 How to reach me **karanlvm123@gmail.com**
 
