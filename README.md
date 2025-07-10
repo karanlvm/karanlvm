@@ -4,21 +4,17 @@
 </p>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=karan_lvm&count=1" alt="Spotify recently played"  />
+  <img
+    src="https://spotify-recently-played-readme.vercel.app/api?user=karan_lvm&count=1"
+    height="150"
+    alt="Spotify recently played"
+  />
+  <img
+    src="https://media.giphy.com/media/UlexC9HXTiNz2/giphy.gif?cid=ecf05e47uzagitjunjabfy2k7cci6ii72edeixtfm3ud859r&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    height="150"
+    alt="Fun GIF"
+  />
 </div>
-
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/UlexC9HXTiNz2/giphy.gif?cid=ecf05e47uzagitjunjabfy2k7cci6ii72edeixtfm3ud859r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/karanlvm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
 
 ###
 
