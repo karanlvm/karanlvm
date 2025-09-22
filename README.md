@@ -24,4 +24,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karanlvm/karanlvm/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanlvm&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="karanlvm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanlvm&show_icons=true&theme=tokyonight&locale=en" alt="karanlvm" /></p>
+
+
 ###
