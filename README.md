@@ -25,9 +25,4 @@
 </picture>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanlvm&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="karanlvm" /></p>
-
-<p>&nbsp;<img src="https://tryhackme-badges.s3.amazonaws.com/karannn05.png" alt="Your Image Badge" /></p>
-
-
 ###
