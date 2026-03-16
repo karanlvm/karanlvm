@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is  Karan</h2>
 <p align="center">
-  <i>AI tinkerer • Cybersecurity enthusiast • Software craftsman • Mildly sleep-deprived 🧠</i>
+  <i>I try to build things</i>
 </p>
 
 <div align="center">
