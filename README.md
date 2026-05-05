@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is  Karan</h2>
 <p align="center">
-  <i>I try to build things</i>
+  <i>I like building things</i>
 </p>
 
 <div align="center">
