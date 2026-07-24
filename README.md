@@ -3,13 +3,6 @@
   <i>I like building things</i>
 </p>
 
-<div align="center">
-  <img
-    src="https://media.giphy.com/media/UlexC9HXTiNz2/giphy.gif?cid=ecf05e47uzagitjunjabfy2k7cci6ii72edeixtfm3ud859r&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-    height="150"
-    alt="Fun GIF"
-  />
-</div>
 
 ###
 
